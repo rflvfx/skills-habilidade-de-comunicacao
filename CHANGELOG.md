@@ -506,3 +506,4 @@
 - 2026-12-19: Expand section
 - 2026-05-25: Add detail
 - 2026-02-27: Update guide
+- 2026-12-12: Improve docs
