@@ -496,3 +496,4 @@
 - 2026-07-25: Add note
 - 2026-05-10: Typo fix
 - 2026-04-16: Typo fix
+- 2026-12-09: Update guide
