@@ -7,3 +7,4 @@
 - 2015-01-07: Add remark
 - 2015-09-19: Refine text
 - 2015-08-18: Add remark
+- 2015-01-21: Adjust content
