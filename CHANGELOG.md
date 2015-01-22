@@ -45,3 +45,4 @@
 - 2015-01-09: Refine text
 - 2015-08-07: Small fix
 - 2015-10-09: Add remark
+- 2015-01-22: Improve docs
