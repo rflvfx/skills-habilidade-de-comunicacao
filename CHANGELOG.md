@@ -56,3 +56,4 @@
 - 2015-03-06: Fix example
 - 2015-11-04: Add note
 - 2015-06-11: Add remark
+- 2015-02-18: Expand section
