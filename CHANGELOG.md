@@ -53,3 +53,4 @@
 - 2015-10-14: Typo fix
 - 2015-03-25: Adjust content
 - 2015-11-07: Expand section
+- 2015-03-06: Fix example
