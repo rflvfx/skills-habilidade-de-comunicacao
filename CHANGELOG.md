@@ -73,3 +73,4 @@
 - 2015-08-10: Fix example
 - 2015-12-01: Minor update
 - 2015-05-04: Minor update
+- 2015-04-01: Expand section
