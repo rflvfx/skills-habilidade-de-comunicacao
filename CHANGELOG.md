@@ -41,3 +41,4 @@
 - 2025-09-15: Refine presentation structure guide
 - 2026-12-17: Review active listening section
 - 2015-04-15: Add detail
+- 2015-04-01: Polish docs
