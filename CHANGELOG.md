@@ -78,3 +78,4 @@
 - 2015-08-12: Fix example
 - 2015-01-23: Update guide
 - 2015-07-13: Adjust content
+- 2015-04-05: Update notes
