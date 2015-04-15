@@ -40,3 +40,4 @@
 - 2025-07-11: Document feedback cadence
 - 2025-09-15: Refine presentation structure guide
 - 2026-12-17: Review active listening section
+- 2015-04-15: Add detail
