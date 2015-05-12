@@ -63,3 +63,4 @@
 - 2015-03-21: Review content
 - 2015-10-25: Refine text
 - 2015-10-16: Add detail
+- 2015-05-12: Add note
