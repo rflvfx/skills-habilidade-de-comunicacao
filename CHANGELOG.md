@@ -69,3 +69,4 @@
 - 2015-04-19: Review content
 - 2015-01-05: Improve docs
 - 2015-04-25: Review content
+- 2015-08-01: Add detail
