@@ -43,3 +43,4 @@
 - 2015-04-15: Add detail
 - 2015-04-01: Polish docs
 - 2015-01-09: Refine text
+- 2015-08-07: Small fix
