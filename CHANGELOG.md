@@ -75,3 +75,4 @@
 - 2015-05-04: Minor update
 - 2015-04-01: Expand section
 - 2015-08-21: Review content
+- 2015-08-12: Fix example
