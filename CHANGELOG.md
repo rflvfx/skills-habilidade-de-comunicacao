@@ -58,3 +58,4 @@
 - 2015-06-11: Add remark
 - 2015-02-18: Expand section
 - 2015-05-24: Update notes
+- 2015-08-17: Minor update
