@@ -54,3 +54,4 @@
 - 2015-03-25: Adjust content
 - 2015-11-07: Expand section
 - 2015-03-06: Fix example
+- 2015-11-04: Add note
