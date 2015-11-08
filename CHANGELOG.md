@@ -79,3 +79,4 @@
 - 2015-01-23: Update guide
 - 2015-07-13: Adjust content
 - 2015-04-05: Update notes
+- 2015-11-08: Refine text
