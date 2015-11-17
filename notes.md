@@ -9,3 +9,4 @@
 - 2015-08-18: Add remark
 - 2015-01-21: Adjust content
 - 2015-04-22: Expand section
+- 2015-11-17: Update notes
