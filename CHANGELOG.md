@@ -71,3 +71,4 @@
 - 2015-04-25: Review content
 - 2015-08-01: Add detail
 - 2015-08-10: Fix example
+- 2015-12-01: Minor update
