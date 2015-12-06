@@ -83,3 +83,4 @@
 - 2015-07-19: Update guide
 - 2015-04-09: Fix example
 - 2015-07-01: Adjust content
+- 2015-12-06: Expand section
