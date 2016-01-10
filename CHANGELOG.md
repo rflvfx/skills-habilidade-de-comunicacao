@@ -125,3 +125,4 @@
 - 2016-01-17: Update guide
 - 2016-06-20: Typo fix
 - 2016-02-28: Add remark
+- 2016-01-10: Update guide
