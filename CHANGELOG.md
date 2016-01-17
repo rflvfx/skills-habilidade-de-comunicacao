@@ -122,3 +122,4 @@
 - 2016-05-07: Polish docs
 - 2016-05-04: Small fix
 - 2016-02-15: Adjust content
+- 2016-01-17: Update guide
