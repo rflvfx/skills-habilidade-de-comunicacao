@@ -12,3 +12,4 @@
 - 2015-11-17: Update notes
 - 2015-11-13: Add note
 - 2016-06-15: Add detail
+- 2016-02-02: Review content
