@@ -121,3 +121,4 @@
 - 2016-01-14: Expand section
 - 2016-05-07: Polish docs
 - 2016-05-04: Small fix
+- 2016-02-15: Adjust content
