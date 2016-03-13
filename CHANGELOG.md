@@ -96,3 +96,4 @@
 - 2016-10-09: Adjust content
 - 2016-07-28: Adjust content
 - 2016-05-09: Add remark
+- 2016-03-13: Typo fix
