@@ -120,3 +120,4 @@
 - 2016-08-04: Fix example
 - 2016-01-14: Expand section
 - 2016-05-07: Polish docs
+- 2016-05-04: Small fix
