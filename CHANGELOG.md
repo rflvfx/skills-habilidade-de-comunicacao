@@ -119,3 +119,4 @@
 - 2016-12-22: Minor update
 - 2016-08-04: Fix example
 - 2016-01-14: Expand section
+- 2016-05-07: Polish docs
