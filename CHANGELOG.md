@@ -102,3 +102,4 @@
 - 2016-11-06: Expand section
 - 2016-04-25: Review content
 - 2016-04-08: Clarify section
+- 2016-05-07: Improve docs
