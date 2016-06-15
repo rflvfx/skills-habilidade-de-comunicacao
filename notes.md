@@ -11,3 +11,4 @@
 - 2015-04-22: Expand section
 - 2015-11-17: Update notes
 - 2015-11-13: Add note
+- 2016-06-15: Add detail
