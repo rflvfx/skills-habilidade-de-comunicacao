@@ -13,3 +13,4 @@
 - 2015-11-13: Add note
 - 2016-06-15: Add detail
 - 2016-02-02: Review content
+- 2016-07-24: Fix example
