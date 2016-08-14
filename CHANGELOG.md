@@ -108,3 +108,4 @@
 - 2016-10-26: Update guide
 - 2016-09-12: Typo fix
 - 2016-11-05: Clarify section
+- 2016-08-14: Add note
