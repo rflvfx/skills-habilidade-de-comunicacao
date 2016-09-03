@@ -17,3 +17,4 @@
 - 2016-03-12: Review content
 - 2016-12-13: Update notes
 - 2016-03-09: Adjust content
+- 2016-09-03: Adjust content
