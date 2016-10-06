@@ -87,3 +87,4 @@
 - 2015-06-12: Add remark
 - 2016-12-17: Typo fix
 - 2016-09-21: Polish docs
+- 2016-10-06: Add detail
