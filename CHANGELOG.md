@@ -107,3 +107,4 @@
 - 2016-10-28: Review content
 - 2016-10-26: Update guide
 - 2016-09-12: Typo fix
+- 2016-11-05: Clarify section
