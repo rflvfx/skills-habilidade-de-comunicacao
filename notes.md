@@ -15,3 +15,4 @@
 - 2016-02-02: Review content
 - 2016-07-24: Fix example
 - 2016-03-12: Review content
+- 2016-12-13: Update notes
