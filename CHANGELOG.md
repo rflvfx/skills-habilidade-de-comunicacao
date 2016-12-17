@@ -85,3 +85,4 @@
 - 2015-07-01: Adjust content
 - 2015-12-06: Expand section
 - 2015-06-12: Add remark
+- 2016-12-17: Typo fix
