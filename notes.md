@@ -26,3 +26,4 @@
 - 2016-04-26: Add remark
 - 2016-01-23: Typo fix
 - 2017-06-26: Small fix
+- 2017-01-20: Update notes
