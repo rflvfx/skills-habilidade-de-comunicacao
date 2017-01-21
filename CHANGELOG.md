@@ -161,3 +161,4 @@
 - 2017-05-09: Typo fix
 - 2017-06-26: Review content
 - 2017-05-06: Small fix
+- 2017-01-21: Typo fix
