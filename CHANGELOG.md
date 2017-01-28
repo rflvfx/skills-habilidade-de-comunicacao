@@ -145,3 +145,4 @@
 - 2017-07-26: Clarify section
 - 2017-12-09: Refine text
 - 2017-05-08: Small fix
+- 2017-01-28: Adjust content
