@@ -138,3 +138,4 @@
 - 2017-02-17: Clarify section
 - 2017-10-24: Add detail
 - 2017-07-23: Clarify section
+- 2017-02-08: Small fix
