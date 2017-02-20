@@ -152,3 +152,4 @@
 - 2017-07-16: Refine text
 - 2017-12-01: Small fix
 - 2017-10-16: Small fix
+- 2017-02-20: Fix example
