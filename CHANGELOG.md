@@ -163,3 +163,4 @@
 - 2017-05-06: Small fix
 - 2017-01-21: Typo fix
 - 2017-10-06: Update notes
+- 2017-03-06: Expand section
