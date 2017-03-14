@@ -5,3 +5,4 @@
 - 2015-08-15: Improve documentation tone coverage
 - 2016-04-20: Add demo storytelling examples
 - 2016-11-24: Expand knowledge transfer docs
+- 2017-03-14: Add onboarding docs notes
