@@ -133,3 +133,4 @@
 - 2017-07-18: Update guide
 - 2017-05-20: Add detail
 - 2017-03-20: Fix example
+- 2017-03-23: Clarify section
