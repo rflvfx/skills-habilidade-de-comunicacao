@@ -153,3 +153,4 @@
 - 2017-12-01: Small fix
 - 2017-10-16: Small fix
 - 2017-02-20: Fix example
+- 2017-04-01: Clarify section
