@@ -167,3 +167,4 @@
 - 2017-09-27: Update guide
 - 2017-10-09: Add detail
 - 2017-02-06: Add remark
+- 2017-04-20: Review content
