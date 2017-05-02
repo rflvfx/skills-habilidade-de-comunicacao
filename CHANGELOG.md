@@ -6,3 +6,4 @@
 - 2016-04-20: Add demo storytelling examples
 - 2016-11-24: Expand knowledge transfer docs
 - 2017-03-14: Add onboarding docs notes
+- 2017-05-02: Review feedback cadence section
