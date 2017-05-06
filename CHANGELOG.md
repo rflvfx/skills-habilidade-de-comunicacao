@@ -160,3 +160,4 @@
 - 2017-04-03: Polish docs
 - 2017-05-09: Typo fix
 - 2017-06-26: Review content
+- 2017-05-06: Small fix
