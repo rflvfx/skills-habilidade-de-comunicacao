@@ -144,3 +144,4 @@
 - 2017-04-17: Update guide
 - 2017-07-26: Clarify section
 - 2017-12-09: Refine text
+- 2017-05-08: Small fix
