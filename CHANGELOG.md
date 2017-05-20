@@ -131,3 +131,4 @@
 - 2017-07-22: Expand section
 - 2017-11-19: Add note
 - 2017-07-18: Update guide
+- 2017-05-20: Add detail
