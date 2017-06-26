@@ -159,3 +159,4 @@
 - 2017-05-19: Add remark
 - 2017-04-03: Polish docs
 - 2017-05-09: Typo fix
+- 2017-06-26: Review content
