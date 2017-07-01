@@ -127,3 +127,4 @@
 - 2016-02-28: Add remark
 - 2016-01-10: Update guide
 - 2017-10-12: Adjust content
+- 2017-07-01: Small fix
