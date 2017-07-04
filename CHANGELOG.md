@@ -148,3 +148,4 @@
 - 2017-01-28: Adjust content
 - 2017-08-22: Update guide
 - 2017-03-14: Add note
+- 2017-07-04: Clarify section
