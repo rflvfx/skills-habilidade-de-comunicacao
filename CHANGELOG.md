@@ -128,3 +128,4 @@
 - 2016-01-10: Update guide
 - 2017-10-12: Adjust content
 - 2017-07-01: Small fix
+- 2017-07-22: Expand section
