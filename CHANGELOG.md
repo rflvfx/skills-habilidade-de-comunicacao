@@ -155,3 +155,4 @@
 - 2017-02-20: Fix example
 - 2017-04-01: Clarify section
 - 2017-06-10: Update notes
+- 2017-09-05: Refine text
