@@ -37,3 +37,4 @@
 - 2017-12-26: Minor update
 - 2017-04-04: Add note
 - 2017-09-17: Adjust content
+- 2017-10-08: Add remark
