@@ -165,3 +165,4 @@
 - 2017-10-06: Update notes
 - 2017-03-06: Expand section
 - 2017-09-27: Update guide
+- 2017-10-09: Add detail
