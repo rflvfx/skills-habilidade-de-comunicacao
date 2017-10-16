@@ -151,3 +151,4 @@
 - 2017-07-04: Clarify section
 - 2017-07-16: Refine text
 - 2017-12-01: Small fix
+- 2017-10-16: Small fix
