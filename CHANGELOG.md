@@ -136,3 +136,4 @@
 - 2017-03-23: Clarify section
 - 2017-11-06: Add note
 - 2017-02-17: Clarify section
+- 2017-10-24: Add detail
