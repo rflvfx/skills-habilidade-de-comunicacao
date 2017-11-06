@@ -134,3 +134,4 @@
 - 2017-05-20: Add detail
 - 2017-03-20: Fix example
 - 2017-03-23: Clarify section
+- 2017-11-06: Add note
