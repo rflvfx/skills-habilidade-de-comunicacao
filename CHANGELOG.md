@@ -129,3 +129,4 @@
 - 2017-10-12: Adjust content
 - 2017-07-01: Small fix
 - 2017-07-22: Expand section
+- 2017-11-19: Add note
