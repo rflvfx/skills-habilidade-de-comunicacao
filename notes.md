@@ -34,3 +34,4 @@
 - 2017-07-19: Minor update
 - 2017-12-27: Small fix
 - 2017-03-23: Fix example
+- 2017-12-26: Minor update
