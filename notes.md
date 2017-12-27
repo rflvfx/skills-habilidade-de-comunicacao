@@ -32,3 +32,4 @@
 - 2017-04-26: Add remark
 - 2017-12-04: Add detail
 - 2017-07-19: Minor update
+- 2017-12-27: Small fix
