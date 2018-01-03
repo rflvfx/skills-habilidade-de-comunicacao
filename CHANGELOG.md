@@ -186,3 +186,4 @@
 - 2018-07-14: Polish docs
 - 2018-07-13: Update guide
 - 2018-06-15: Expand section
+- 2018-01-03: Update guide
