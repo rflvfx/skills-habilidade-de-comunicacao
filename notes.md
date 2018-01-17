@@ -44,3 +44,4 @@
 - 2018-07-28: Review content
 - 2018-12-06: Add note
 - 2018-04-14: Add remark
+- 2018-01-17: Update guide
