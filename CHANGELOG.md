@@ -204,3 +204,4 @@
 - 2018-04-16: Clarify section
 - 2018-10-10: Improve docs
 - 2018-09-18: Add detail
+- 2018-02-01: Update notes
