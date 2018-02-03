@@ -168,3 +168,4 @@
 - 2017-10-09: Add detail
 - 2017-02-06: Add remark
 - 2017-04-20: Review content
+- 2018-02-03: Update notes
