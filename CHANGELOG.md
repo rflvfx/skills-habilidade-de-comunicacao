@@ -192,3 +192,4 @@
 - 2018-10-23: Small fix
 - 2018-07-17: Update guide
 - 2018-06-18: Add detail
+- 2018-02-08: Expand section
