@@ -206,3 +206,4 @@
 - 2018-09-18: Add detail
 - 2018-02-01: Update notes
 - 2018-02-24: Add note
+- 2018-02-18: Update guide
