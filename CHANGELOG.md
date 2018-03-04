@@ -194,3 +194,4 @@
 - 2018-06-18: Add detail
 - 2018-02-08: Expand section
 - 2018-05-07: Clarify section
+- 2018-03-04: Polish docs
