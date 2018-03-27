@@ -200,3 +200,4 @@
 - 2018-10-07: Minor update
 - 2018-08-11: Polish docs
 - 2018-05-09: Small fix
+- 2018-03-27: Update notes
