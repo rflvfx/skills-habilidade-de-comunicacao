@@ -199,3 +199,4 @@
 - 2018-08-09: Add remark
 - 2018-10-07: Minor update
 - 2018-08-11: Polish docs
+- 2018-05-09: Small fix
