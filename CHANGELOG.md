@@ -184,3 +184,4 @@
 - 2018-06-21: Polish docs
 - 2018-05-12: Fix example
 - 2018-07-14: Polish docs
+- 2018-07-13: Update guide
