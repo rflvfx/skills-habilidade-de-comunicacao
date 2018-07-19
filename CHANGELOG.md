@@ -173,3 +173,4 @@
 - 2018-06-02: Polish docs
 - 2018-11-15: Polish docs
 - 2018-01-28: Adjust content
+- 2018-07-19: Typo fix
