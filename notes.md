@@ -39,3 +39,4 @@
 - 2017-09-17: Adjust content
 - 2017-10-08: Add remark
 - 2018-11-27: Refine text
+- 2018-10-15: Fix example
