@@ -189,3 +189,4 @@
 - 2018-01-03: Update guide
 - 2018-08-10: Expand section
 - 2018-06-19: Typo fix
+- 2018-10-23: Small fix
