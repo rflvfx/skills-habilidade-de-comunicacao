@@ -171,3 +171,4 @@
 - 2018-02-03: Update notes
 - 2018-01-25: Minor update
 - 2018-06-02: Polish docs
+- 2018-11-15: Polish docs
