@@ -195,3 +195,4 @@
 - 2018-02-08: Expand section
 - 2018-05-07: Clarify section
 - 2018-03-04: Polish docs
+- 2018-12-05: Improve docs
