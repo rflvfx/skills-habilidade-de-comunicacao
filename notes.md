@@ -42,3 +42,4 @@
 - 2018-10-15: Fix example
 - 2018-10-07: Typo fix
 - 2018-07-28: Review content
+- 2018-12-06: Add note
