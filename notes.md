@@ -52,3 +52,4 @@
 - 2018-06-17: Review content
 - 2018-10-27: Polish docs
 - 2018-10-10: Adjust content
+- 2019-01-02: Expand section
