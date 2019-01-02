@@ -65,3 +65,4 @@
 - 2019-11-03: Review content
 - 2019-04-14: Fix example
 - 2019-08-04: Refine text
+- 2019-01-02: Expand section
