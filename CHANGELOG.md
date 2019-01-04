@@ -210,3 +210,4 @@
 - 2019-12-02: Review content
 - 2019-11-21: Update notes
 - 2019-07-13: Minor update
+- 2019-01-04: Clarify section
