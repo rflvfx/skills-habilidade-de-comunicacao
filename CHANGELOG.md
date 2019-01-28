@@ -220,3 +220,4 @@
 - 2019-06-10: Expand section
 - 2019-07-20: Typo fix
 - 2019-02-03: Minor update
+- 2019-01-28: Improve docs
