@@ -8,3 +8,4 @@
 - 2017-03-14: Add onboarding docs notes
 - 2017-05-02: Review feedback cadence section
 - 2018-07-16: Refine stakeholder updates guide
+- 2019-02-09: Improve meeting facilitation coverage
