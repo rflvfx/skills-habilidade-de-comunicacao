@@ -58,3 +58,4 @@
 - 2019-06-27: Update guide
 - 2019-04-25: Minor update
 - 2019-01-05: Polish docs
+- 2019-03-21: Fix example
