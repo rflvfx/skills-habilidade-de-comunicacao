@@ -1,0 +1,1 @@
+- 2019-05-13: Improve explanation (skills-habilidade-de-comunicacao)
