@@ -230,3 +230,4 @@
 - 2019-08-10: Fix example
 - 2019-08-23: Polish docs
 - 2019-08-01: Expand section
+- 2019-05-17: Refine text
