@@ -231,3 +231,4 @@
 - 2019-08-23: Polish docs
 - 2019-08-01: Expand section
 - 2019-05-17: Refine text
+- 2019-05-20: Fix example
