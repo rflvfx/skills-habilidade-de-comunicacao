@@ -53,3 +53,4 @@
 - 2018-10-27: Polish docs
 - 2018-10-10: Adjust content
 - 2019-01-02: Expand section
+- 2019-06-08: Minor update
