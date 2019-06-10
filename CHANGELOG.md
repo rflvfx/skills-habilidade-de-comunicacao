@@ -212,3 +212,4 @@
 - 2019-07-13: Minor update
 - 2019-01-04: Clarify section
 - 2019-11-24: Update guide
+- 2019-06-10: Refine text
