@@ -218,3 +218,4 @@
 - 2019-03-25: Add detail
 - 2019-05-11: Refine text
 - 2019-06-10: Expand section
+- 2019-07-20: Typo fix
