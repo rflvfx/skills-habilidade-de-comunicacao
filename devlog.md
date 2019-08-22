@@ -1,1 +1,2 @@
 - 2017-01-08 — Add practice notes
+- 2019-08-22 — Refine exercises
