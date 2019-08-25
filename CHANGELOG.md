@@ -224,3 +224,4 @@
 - 2019-04-20: Adjust content
 - 2019-05-08: Add detail
 - 2019-12-09: Refine text
+- 2019-08-25: Minor update
