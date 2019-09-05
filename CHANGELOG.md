@@ -232,3 +232,4 @@
 - 2019-08-01: Expand section
 - 2019-05-17: Refine text
 - 2019-05-20: Fix example
+- 2019-09-05: Small fix
