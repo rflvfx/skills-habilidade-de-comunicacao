@@ -71,3 +71,4 @@
 - 2019-05-08: Clarify section
 - 2019-12-14: Polish docs
 - 2019-12-22: Update notes
+- 2019-09-24: Clarify section
