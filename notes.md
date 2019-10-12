@@ -61,3 +61,4 @@
 - 2019-03-21: Fix example
 - 2019-04-27: Add remark
 - 2019-05-21: Fix example
+- 2019-10-12: Clarify section
