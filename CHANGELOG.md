@@ -10,3 +10,4 @@
 - 2018-07-16: Refine stakeholder updates guide
 - 2019-02-09: Improve meeting facilitation coverage
 - 2019-07-25: Document status updates
+- 2019-10-22: Review documentation tone section
