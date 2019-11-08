@@ -237,3 +237,4 @@
 - 2019-02-03: Minor update
 - 2019-03-13: Add detail
 - 2019-08-10: Update guide
+- 2019-11-08: Update notes
