@@ -67,3 +67,4 @@
 - 2019-08-04: Refine text
 - 2019-01-02: Expand section
 - 2019-02-01: Add detail
+- 2019-11-16: Improve docs
