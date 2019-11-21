@@ -208,3 +208,4 @@
 - 2018-02-24: Add note
 - 2018-02-18: Update guide
 - 2019-12-02: Review content
+- 2019-11-21: Update notes
