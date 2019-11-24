@@ -211,3 +211,4 @@
 - 2019-11-21: Update notes
 - 2019-07-13: Minor update
 - 2019-01-04: Clarify section
+- 2019-11-24: Update guide
