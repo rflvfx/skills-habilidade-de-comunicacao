@@ -223,3 +223,4 @@
 - 2019-01-28: Improve docs
 - 2019-04-20: Adjust content
 - 2019-05-08: Add detail
+- 2019-12-09: Refine text
