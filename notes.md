@@ -69,3 +69,4 @@
 - 2019-02-01: Add detail
 - 2019-11-16: Improve docs
 - 2019-05-08: Clarify section
+- 2019-12-14: Polish docs
