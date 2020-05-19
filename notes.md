@@ -79,3 +79,4 @@
 - 2020-08-17: Adjust content
 - 2020-06-06: Add note
 - 2020-12-03: Typo fix
+- 2020-05-19: Typo fix
