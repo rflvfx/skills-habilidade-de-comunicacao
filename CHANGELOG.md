@@ -12,3 +12,4 @@
 - 2019-07-25: Document status updates
 - 2019-10-22: Review documentation tone section
 - 2020-03-18: Document demo storytelling
+- 2020-07-01: Review conflict handling section
