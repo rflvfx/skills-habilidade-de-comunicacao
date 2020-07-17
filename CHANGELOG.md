@@ -245,3 +245,4 @@
 - 2020-02-16: Clarify section
 - 2020-11-11: Minor update
 - 2020-06-19: Fix example
+- 2020-07-17: Typo fix
