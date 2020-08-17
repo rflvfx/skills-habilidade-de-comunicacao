@@ -76,3 +76,4 @@
 - 2020-09-05: Polish docs
 - 2020-02-17: Expand section
 - 2020-07-22: Polish docs
+- 2020-08-17: Adjust content
