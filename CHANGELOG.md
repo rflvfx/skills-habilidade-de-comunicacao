@@ -258,3 +258,4 @@
 - 2020-04-25: Fix example
 - 2020-03-16: Small fix
 - 2020-05-04: Add remark
+- 2020-08-27: Polish docs
