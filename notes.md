@@ -73,3 +73,4 @@
 - 2019-12-22: Update notes
 - 2019-09-24: Clarify section
 - 2020-07-26: Typo fix
+- 2020-09-05: Polish docs
