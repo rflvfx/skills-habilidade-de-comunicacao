@@ -85,3 +85,4 @@
 - 2020-06-04: Update guide
 - 2020-02-05: Refine text
 - 2020-09-04: Update guide
+- 2020-09-08: Fix example
