@@ -243,3 +243,4 @@
 - 2019-07-21: Polish docs
 - 2020-03-28: Add remark
 - 2020-02-16: Clarify section
+- 2020-11-11: Minor update
