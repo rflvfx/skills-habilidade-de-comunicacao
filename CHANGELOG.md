@@ -14,3 +14,4 @@
 - 2020-03-18: Document demo storytelling
 - 2020-07-01: Review conflict handling section
 - 2020-11-26: Add remote etiquette notes
+- 2020-12-04: Improve knowledge transfer coverage
