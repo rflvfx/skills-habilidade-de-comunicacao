@@ -89,3 +89,4 @@
 - 2020-02-01: Refine text
 - 2021-06-26: Adjust content
 - 2021-06-15: Add note
+- 2021-05-24: Adjust content
