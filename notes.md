@@ -88,3 +88,4 @@
 - 2020-09-08: Fix example
 - 2020-02-01: Refine text
 - 2021-06-26: Adjust content
+- 2021-06-15: Add note
