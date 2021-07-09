@@ -292,3 +292,4 @@
 - 2021-08-15: Update guide
 - 2021-05-10: Review content
 - 2021-01-25: Expand section
+- 2021-07-09: Update notes
