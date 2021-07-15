@@ -313,3 +313,4 @@
 - 2021-07-13: Adjust content
 - 2021-11-21: Review content
 - 2021-02-17: Add note
+- 2021-07-15: Small fix
