@@ -294,3 +294,4 @@
 - 2021-01-25: Expand section
 - 2021-07-09: Update notes
 - 2021-04-06: Add note
+- 2021-08-18: Polish docs
