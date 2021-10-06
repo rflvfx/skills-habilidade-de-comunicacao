@@ -299,3 +299,4 @@
 - 2021-09-01: Adjust content
 - 2021-02-26: Expand section
 - 2021-07-25: Adjust content
+- 2021-10-06: Add detail
