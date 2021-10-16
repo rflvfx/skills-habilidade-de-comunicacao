@@ -315,3 +315,4 @@
 - 2021-02-17: Add note
 - 2021-07-15: Small fix
 - 2021-10-12: Polish docs
+- 2021-10-16: Add detail
