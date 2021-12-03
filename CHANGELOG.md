@@ -309,3 +309,4 @@
 - 2021-03-21: Add detail
 - 2021-03-08: Add note
 - 2021-08-25: Clarify section
+- 2021-12-03: Update guide
