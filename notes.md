@@ -101,3 +101,4 @@
 - 2022-01-22: Minor update
 - 2022-06-06: Add detail
 - 2022-12-11: Expand section
+- 2022-02-16: Polish docs
