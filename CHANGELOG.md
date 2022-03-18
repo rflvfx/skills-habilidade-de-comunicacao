@@ -29,3 +29,4 @@
 - 2026-04-03: Add stakeholder updates examples
 - 2026-07-21: Expand active listening docs
 - 2021-04-04: Add meeting facilitation examples
+- 2022-03-18: Refine status updates guide
