@@ -108,3 +108,4 @@
 - 2022-11-01: Update notes
 - 2022-07-09: Update guide
 - 2022-04-07: Minor update
+- 2022-03-21: Fix example
