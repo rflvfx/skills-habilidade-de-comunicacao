@@ -328,3 +328,4 @@
 - 2022-07-04: Expand section
 - 2022-09-23: Refine text
 - 2022-09-09: Review content
+- 2022-04-19: Clarify section
