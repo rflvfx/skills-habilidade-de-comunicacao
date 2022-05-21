@@ -333,3 +333,4 @@
 - 2022-03-04: Update guide
 - 2022-05-20: Improve docs
 - 2022-08-04: Improve docs
+- 2022-05-21: Add note
