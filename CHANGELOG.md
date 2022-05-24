@@ -338,3 +338,4 @@
 - 2022-07-16: Update notes
 - 2022-10-27: Adjust content
 - 2022-05-13: Minor update
+- 2022-05-24: Improve docs
