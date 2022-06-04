@@ -334,3 +334,4 @@
 - 2022-05-20: Improve docs
 - 2022-08-04: Improve docs
 - 2022-05-21: Add note
+- 2022-06-04: Add detail
