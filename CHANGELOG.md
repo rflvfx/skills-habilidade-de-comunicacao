@@ -357,3 +357,4 @@
 - 2022-02-24: Clarify section
 - 2022-10-06: Add remark
 - 2022-10-26: Typo fix
+- 2022-07-13: Refine text
