@@ -104,3 +104,4 @@
 - 2022-02-16: Polish docs
 - 2022-10-18: Add remark
 - 2022-03-26: Refine text
+- 2022-08-05: Adjust content
