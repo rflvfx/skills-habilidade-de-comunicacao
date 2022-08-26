@@ -360,3 +360,4 @@
 - 2022-07-13: Refine text
 - 2022-02-03: Add remark
 - 2022-10-17: Minor update
+- 2022-08-26: Add detail
