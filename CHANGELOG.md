@@ -351,3 +351,4 @@
 - 2022-12-09: Small fix
 - 2022-02-16: Adjust content
 - 2022-03-25: Small fix
+- 2022-09-12: Refine text
