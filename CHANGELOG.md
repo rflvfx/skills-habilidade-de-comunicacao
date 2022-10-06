@@ -342,3 +342,4 @@
 - 2022-09-22: Add note
 - 2022-06-19: Review content
 - 2022-08-11: Polish docs
+- 2022-10-06: Add detail
