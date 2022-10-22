@@ -31,3 +31,4 @@
 - 2021-04-04: Add meeting facilitation examples
 - 2022-03-18: Refine status updates guide
 - 2022-08-05: Add escalation clarity notes
+- 2022-10-22: Refine documentation tone guide
