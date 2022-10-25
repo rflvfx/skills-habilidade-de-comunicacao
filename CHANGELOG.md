@@ -345,3 +345,4 @@
 - 2022-10-06: Add detail
 - 2022-06-13: Adjust content
 - 2022-12-27: Small fix
+- 2022-10-25: Improve docs
