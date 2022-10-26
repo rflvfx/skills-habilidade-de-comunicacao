@@ -356,3 +356,4 @@
 - 2022-02-18: Refine text
 - 2022-02-24: Clarify section
 - 2022-10-06: Add remark
+- 2022-10-26: Typo fix
