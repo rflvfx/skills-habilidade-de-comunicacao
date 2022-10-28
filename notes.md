@@ -110,3 +110,4 @@
 - 2022-04-07: Minor update
 - 2022-03-21: Fix example
 - 2022-12-09: Improve docs
+- 2022-10-28: Add detail
