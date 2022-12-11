@@ -100,3 +100,4 @@
 - 2021-12-01: Clarify section
 - 2022-01-22: Minor update
 - 2022-06-06: Add detail
+- 2022-12-11: Expand section
