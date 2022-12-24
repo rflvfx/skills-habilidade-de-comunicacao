@@ -16,3 +16,4 @@
 - 2020-11-26: Add remote etiquette notes
 - 2020-12-04: Improve knowledge transfer coverage
 - 2021-05-07: Document onboarding docs
+- 2022-12-24: Refine active listening guide
