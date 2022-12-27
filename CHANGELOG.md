@@ -344,3 +344,4 @@
 - 2022-08-11: Polish docs
 - 2022-10-06: Add detail
 - 2022-06-13: Adjust content
+- 2022-12-27: Small fix
