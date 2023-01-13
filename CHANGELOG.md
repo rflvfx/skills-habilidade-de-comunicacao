@@ -383,3 +383,4 @@
 - 2023-12-16: Review content
 - 2023-10-22: Add note
 - 2023-11-15: Add remark
+- 2023-01-13: Update guide
