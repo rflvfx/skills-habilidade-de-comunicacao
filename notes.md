@@ -117,3 +117,4 @@
 - 2023-12-24: Refine text
 - 2023-07-20: Polish docs
 - 2023-02-01: Review content
+- 2023-03-16: Update guide
