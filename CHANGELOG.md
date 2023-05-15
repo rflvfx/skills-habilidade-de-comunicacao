@@ -32,3 +32,4 @@
 - 2022-03-18: Refine status updates guide
 - 2022-08-05: Add escalation clarity notes
 - 2022-10-22: Refine documentation tone guide
+- 2023-05-15: Review demo storytelling section
