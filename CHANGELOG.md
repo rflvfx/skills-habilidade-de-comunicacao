@@ -378,3 +378,4 @@
 - 2023-12-24: Polish docs
 - 2023-12-02: Add detail
 - 2023-03-10: Fix example
+- 2023-06-24: Add note
