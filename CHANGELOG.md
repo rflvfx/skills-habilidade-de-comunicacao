@@ -368,3 +368,4 @@
 - 2023-04-28: Fix example
 - 2023-01-05: Review content
 - 2023-07-20: Add detail
+- 2023-07-07: Adjust content
