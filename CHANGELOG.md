@@ -33,3 +33,4 @@
 - 2022-08-05: Add escalation clarity notes
 - 2022-10-22: Refine documentation tone guide
 - 2023-05-15: Review demo storytelling section
+- 2023-08-18: Add conflict handling notes
