@@ -369,3 +369,4 @@
 - 2023-01-05: Review content
 - 2023-07-20: Add detail
 - 2023-07-07: Adjust content
+- 2023-10-18: Add detail
