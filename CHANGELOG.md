@@ -397,3 +397,4 @@
 - 2023-05-26: Improve docs
 - 2023-05-16: Review content
 - 2023-12-19: Adjust content
+- 2023-10-26: Update guide
