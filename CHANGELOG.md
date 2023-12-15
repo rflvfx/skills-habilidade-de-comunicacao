@@ -373,3 +373,4 @@
 - 2023-09-08: Minor update
 - 2023-10-11: Add remark
 - 2023-12-22: Review content
+- 2023-12-15: Improve docs
