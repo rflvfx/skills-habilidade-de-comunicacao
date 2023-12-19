@@ -396,3 +396,4 @@
 - 2023-07-27: Add remark
 - 2023-05-26: Improve docs
 - 2023-05-16: Review content
+- 2023-12-19: Adjust content
