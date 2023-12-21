@@ -34,3 +34,4 @@
 - 2022-10-22: Refine documentation tone guide
 - 2023-05-15: Review demo storytelling section
 - 2023-08-18: Add conflict handling notes
+- 2023-12-21: Add remote etiquette examples
