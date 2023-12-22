@@ -388,3 +388,4 @@
 - 2023-07-05: Polish docs
 - 2023-03-21: Update notes
 - 2023-02-07: Update notes
+- 2023-12-22: Expand section
