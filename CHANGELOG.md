@@ -375,3 +375,4 @@
 - 2023-12-22: Review content
 - 2023-12-15: Improve docs
 - 2023-04-08: Update notes
+- 2023-12-24: Polish docs
