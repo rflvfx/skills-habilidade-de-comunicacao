@@ -18,3 +18,4 @@
 - 2021-05-07: Document onboarding docs
 - 2022-12-24: Refine active listening guide
 - 2023-07-28: Add escalation clarity notes
+- 2024-03-10: Review demo storytelling section
