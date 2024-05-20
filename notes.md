@@ -126,3 +126,4 @@
 - 2024-11-13: Update guide
 - 2024-09-28: Refine text
 - 2024-09-28: Improve docs
+- 2024-05-20: Improve docs
