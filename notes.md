@@ -121,3 +121,4 @@
 - 2023-04-13: Add detail
 - 2023-09-09: Clarify section
 - 2024-03-05: Clarify section
+- 2024-06-13: Refine text
