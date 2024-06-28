@@ -19,3 +19,4 @@
 - 2022-12-24: Refine active listening guide
 - 2023-07-28: Add escalation clarity notes
 - 2024-03-10: Review demo storytelling section
+- 2024-06-28: Document remote etiquette
