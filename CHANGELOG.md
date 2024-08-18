@@ -420,3 +420,4 @@
 - 2024-06-19: Adjust content
 - 2024-10-14: Clarify section
 - 2024-04-12: Add remark
+- 2024-08-18: Add detail
