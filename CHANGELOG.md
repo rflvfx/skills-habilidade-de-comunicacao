@@ -20,3 +20,4 @@
 - 2023-07-28: Add escalation clarity notes
 - 2024-03-10: Review demo storytelling section
 - 2024-06-28: Document remote etiquette
+- 2024-09-09: Add knowledge transfer examples
