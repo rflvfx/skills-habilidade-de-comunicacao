@@ -422,3 +422,4 @@
 - 2024-04-12: Add remark
 - 2024-08-18: Add detail
 - 2024-01-23: Clarify section
+- 2024-09-22: Refine text
