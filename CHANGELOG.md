@@ -439,3 +439,4 @@
 - 2024-05-19: Update notes
 - 2024-12-27: Polish docs
 - 2024-08-12: Polish docs
+- 2024-10-25: Add detail
