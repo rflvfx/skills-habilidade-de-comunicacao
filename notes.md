@@ -122,3 +122,4 @@
 - 2023-09-09: Clarify section
 - 2024-03-05: Clarify section
 - 2024-06-13: Refine text
+- 2024-10-28: Small fix
