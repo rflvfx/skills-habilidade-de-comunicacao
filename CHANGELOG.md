@@ -407,3 +407,4 @@
 - 2023-08-28: Minor update
 - 2023-12-27: Refine text
 - 2024-06-25: Refine text
+- 2024-11-06: Expand section
