@@ -450,3 +450,4 @@
 - 2024-06-24: Polish docs
 - 2024-06-28: Refine text
 - 2024-12-12: Add detail
+- 2024-11-10: Minor update
