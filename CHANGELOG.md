@@ -441,3 +441,4 @@
 - 2024-08-12: Polish docs
 - 2024-10-25: Add detail
 - 2024-07-05: Expand section
+- 2024-11-20: Small fix
