@@ -449,3 +449,4 @@
 - 2024-07-17: Improve docs
 - 2024-06-24: Polish docs
 - 2024-06-28: Refine text
+- 2024-12-12: Add detail
