@@ -437,3 +437,4 @@
 - 2024-08-07: Add note
 - 2024-09-22: Update notes
 - 2024-05-19: Update notes
+- 2024-12-27: Polish docs
