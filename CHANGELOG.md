@@ -491,3 +491,4 @@
 - 2025-09-11: Add detail
 - 2025-03-15: Add detail
 - 2025-07-25: Improve docs
+- 2025-01-16: Expand section
