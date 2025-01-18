@@ -465,3 +465,4 @@
 - 2025-06-06: Clarify section
 - 2025-03-20: Refine text
 - 2025-08-24: Fix example
+- 2025-01-18: Add note
