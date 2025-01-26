@@ -132,3 +132,4 @@
 - 2025-11-18: Add remark
 - 2025-07-14: Polish docs
 - 2025-04-07: Add remark
+- 2025-01-26: Expand section
