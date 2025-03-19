@@ -22,3 +22,4 @@
 - 2024-06-28: Document remote etiquette
 - 2024-09-09: Add knowledge transfer examples
 - 2025-02-08: Update interview debriefs reference
+- 2025-03-19: Add onboarding docs examples
