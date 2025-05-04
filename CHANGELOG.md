@@ -476,3 +476,4 @@
 - 2025-03-24: Clarify section
 - 2025-08-23: Add detail
 - 2025-05-23: Minor update
+- 2025-05-04: Add detail
