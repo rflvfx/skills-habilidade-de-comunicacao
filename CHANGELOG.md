@@ -462,3 +462,4 @@
 - 2025-05-04: Clarify section
 - 2025-08-02: Refine text
 - 2025-09-27: Refine text
+- 2025-06-06: Clarify section
