@@ -36,3 +36,4 @@
 - 2023-08-18: Add conflict handling notes
 - 2023-12-21: Add remote etiquette examples
 - 2024-01-12: Update knowledge transfer reference
+- 2025-07-02: Improve decision logs coverage
