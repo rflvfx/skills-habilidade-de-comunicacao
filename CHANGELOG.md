@@ -23,3 +23,4 @@
 - 2024-09-09: Add knowledge transfer examples
 - 2025-02-08: Update interview debriefs reference
 - 2025-03-19: Add onboarding docs examples
+- 2025-07-06: Refine decision logs guide
