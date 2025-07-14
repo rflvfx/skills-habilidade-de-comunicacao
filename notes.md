@@ -130,3 +130,4 @@
 - 2024-07-22: Add remark
 - 2025-03-09: Minor update
 - 2025-11-18: Add remark
+- 2025-07-14: Polish docs
