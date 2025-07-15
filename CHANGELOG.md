@@ -481,3 +481,4 @@
 - 2025-12-24: Adjust content
 - 2025-02-15: Fix example
 - 2025-03-15: Add note
+- 2025-07-15: Update guide
