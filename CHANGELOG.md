@@ -24,3 +24,4 @@
 - 2025-02-08: Update interview debriefs reference
 - 2025-03-19: Add onboarding docs examples
 - 2025-07-06: Refine decision logs guide
+- 2025-07-17: Add feedback cadence examples
