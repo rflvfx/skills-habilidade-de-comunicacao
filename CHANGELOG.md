@@ -490,3 +490,4 @@
 - 2025-09-17: Update notes
 - 2025-09-11: Add detail
 - 2025-03-15: Add detail
+- 2025-07-25: Improve docs
