@@ -455,3 +455,4 @@
 - 2025-06-08: Small fix
 - 2025-10-11: Clarify section
 - 2025-05-08: Add remark
+- 2025-08-24: Small fix
