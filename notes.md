@@ -139,3 +139,4 @@
 - 2025-11-05: Expand section
 - 2025-11-15: Add note
 - 2025-01-16: Review content
+- 2025-08-26: Typo fix
