@@ -140,3 +140,4 @@
 - 2025-11-15: Add note
 - 2025-01-16: Review content
 - 2025-08-26: Typo fix
+- 2025-09-01: Update notes
