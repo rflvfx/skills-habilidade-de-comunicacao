@@ -470,3 +470,4 @@
 - 2025-10-18: Small fix
 - 2025-09-27: Polish docs
 - 2025-10-28: Clarify section
+- 2025-09-05: Adjust content
