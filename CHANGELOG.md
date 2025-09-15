@@ -38,3 +38,4 @@
 - 2024-01-12: Update knowledge transfer reference
 - 2025-07-02: Improve decision logs coverage
 - 2025-07-11: Document feedback cadence
+- 2025-09-15: Refine presentation structure guide
