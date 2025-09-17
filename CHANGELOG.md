@@ -487,3 +487,4 @@
 - 2025-12-19: Review content
 - 2025-09-20: Improve docs
 - 2025-08-17: Polish docs
+- 2025-09-17: Update notes
