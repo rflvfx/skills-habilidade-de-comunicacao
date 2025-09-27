@@ -468,3 +468,4 @@
 - 2025-01-18: Add note
 - 2025-02-16: Fix example
 - 2025-10-18: Small fix
+- 2025-09-27: Polish docs
