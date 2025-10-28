@@ -469,3 +469,4 @@
 - 2025-02-16: Fix example
 - 2025-10-18: Small fix
 - 2025-09-27: Polish docs
+- 2025-10-28: Clarify section
