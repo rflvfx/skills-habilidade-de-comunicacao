@@ -129,3 +129,4 @@
 - 2024-05-20: Improve docs
 - 2024-07-22: Add remark
 - 2025-03-09: Minor update
+- 2025-11-18: Add remark
