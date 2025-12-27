@@ -134,3 +134,4 @@
 - 2025-04-07: Add remark
 - 2025-01-26: Expand section
 - 2025-04-12: Clarify section
+- 2025-12-27: Review content
