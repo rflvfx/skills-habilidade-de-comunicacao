@@ -141,3 +141,4 @@
 - 2025-01-16: Review content
 - 2025-08-26: Typo fix
 - 2025-09-01: Update notes
+- 2026-01-28: Adjust content
