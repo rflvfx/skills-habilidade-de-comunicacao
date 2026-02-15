@@ -25,3 +25,4 @@
 - 2025-03-19: Add onboarding docs examples
 - 2025-07-06: Refine decision logs guide
 - 2025-07-17: Add feedback cadence examples
+- 2026-02-15: Expand written proposals docs
