@@ -26,3 +26,4 @@
 - 2025-07-06: Refine decision logs guide
 - 2025-07-17: Add feedback cadence examples
 - 2026-02-15: Expand written proposals docs
+- 2026-04-03: Add stakeholder updates examples
