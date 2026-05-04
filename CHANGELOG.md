@@ -517,3 +517,4 @@
 - 2026-06-27: Clarify section
 - 2026-10-09: Add detail
 - 2026-09-07: Minor update
+- 2026-05-04: Adjust content
