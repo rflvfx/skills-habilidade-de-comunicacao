@@ -494,3 +494,4 @@
 - 2025-01-16: Expand section
 - 2026-06-10: Fix example
 - 2026-07-25: Add note
+- 2026-05-10: Typo fix
