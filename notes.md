@@ -152,3 +152,4 @@
 - 2026-04-01: Add note
 - 2026-10-18: Polish docs
 - 2026-04-19: Update guide
+- 2026-05-22: Add detail
