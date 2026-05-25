@@ -504,3 +504,4 @@
 - 2026-06-11: Fix example
 - 2026-04-16: Update notes
 - 2026-12-19: Expand section
+- 2026-05-25: Add detail
