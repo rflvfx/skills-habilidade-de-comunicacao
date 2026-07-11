@@ -524,3 +524,4 @@
 - 2026-02-03: Adjust content
 - 2026-07-14: Update guide
 - 2026-07-26: Minor update
+- 2026-07-11: Refine text
