@@ -27,3 +27,4 @@
 - 2025-07-17: Add feedback cadence examples
 - 2026-02-15: Expand written proposals docs
 - 2026-04-03: Add stakeholder updates examples
+- 2026-07-21: Expand active listening docs
