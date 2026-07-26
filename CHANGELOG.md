@@ -523,3 +523,4 @@
 - 2026-08-08: Adjust content
 - 2026-02-03: Adjust content
 - 2026-07-14: Update guide
+- 2026-07-26: Minor update
