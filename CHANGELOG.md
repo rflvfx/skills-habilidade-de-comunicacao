@@ -528,3 +528,4 @@
 - 2026-08-22: Refine text
 - 2026-12-09: Add remark
 - 2026-04-28: Fix example
+- 2026-09-01: Expand section
