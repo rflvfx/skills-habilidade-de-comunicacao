@@ -153,3 +153,4 @@
 - 2026-10-18: Polish docs
 - 2026-04-19: Update guide
 - 2026-05-22: Add detail
+- 2026-09-06: Minor update
