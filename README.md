@@ -1,20 +1,18 @@
 # skills-habilidade-de-comunicacao
 
-Habilidade: **Habilidade de Comunicacao**
+Guia de comunicacao eficaz para desenvolvedores.
 
-## Anos de experiencia
+## Principios
 
-_Atualize este campo com o tempo de experiencia real._
+1. Clareza: seja objetivo
+2. Escuta: entenda antes de responder
+3. Feedback: seja construtivo
+4. Documentacao: registre decisoes
+5. Empatia: considere o outro lado
 
-## Sobre
+## Praticas
 
-Repositorio de referencia para a habilidade **Habilidade de Comunicacao**.
-Inclui um exemplo minimo e anotacoes para consulta rapida.
-
-## Exemplo
-
-Veja o arquivo `exemplo` na raiz do repositorio.
-
-## Links uteis
-
-- [Documentacao oficial](https://www.google.com/search?q=Habilidade de Comunicacao+documentacao)
+- Reunioes curtas com agenda
+- Code review educado
+- Commits descritivos
+- Documentacao tecnica clara
