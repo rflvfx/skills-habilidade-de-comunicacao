@@ -510,3 +510,4 @@
 - 2026-04-11: Improve docs
 - 2026-11-25: Typo fix
 - 2026-02-16: Review content
+- 2026-10-03: Update notes
