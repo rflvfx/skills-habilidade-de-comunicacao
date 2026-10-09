@@ -515,3 +515,4 @@
 - 2026-09-02: Add remark
 - 2026-09-18: Typo fix
 - 2026-06-27: Clarify section
+- 2026-10-09: Add detail
