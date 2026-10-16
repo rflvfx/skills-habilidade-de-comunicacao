@@ -1,18 +1,23 @@
+<div align="center">
+
 # skills-habilidade-de-comunicacao
 
-Guia de comunicacao eficaz para desenvolvedores.
+**Soft skills para devs** — feedback, apresentações, mentoria e reuniões.
 
-## Principios
+</div>
 
-1. Clareza: seja objetivo
-2. Escuta: entenda antes de responder
-3. Feedback: seja construtivo
-4. Documentacao: registre decisoes
-5. Empatia: considere o outro lado
+## 📋 Sobre
 
-## Praticas
+Comunicação como competência técnica: frameworks de feedback, dicas de apresentação, guia de mentoria e templates para reuniões produtivas.
 
-- Reunioes curtas com agenda
-- Code review educado
-- Commits descritivos
-- Documentacao tecnica clara
+## 📂 Conteúdo
+
+- `communication-guide.md` — guia geral
+- `feedback.md` — frameworks (SBI)
+- `presentations.md` — dicas de apresentação
+- `mentoring.md` — guia de mentoria
+- `meetings.md` — template de ata
+
+## 🧠 Tópicos cobertos
+
+`feedback` `presentations` `mentoring` `meetings` `documentation` `remote work`
