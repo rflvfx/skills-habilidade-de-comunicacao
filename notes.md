@@ -146,3 +146,4 @@
 - 2026-08-17: Fix example
 - 2026-11-10: Refine text
 - 2026-10-23: Polish docs
+- 2026-10-28: Add remark
