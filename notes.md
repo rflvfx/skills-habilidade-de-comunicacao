@@ -144,3 +144,4 @@
 - 2026-01-28: Adjust content
 - 2026-04-28: Refine text
 - 2026-08-17: Fix example
+- 2026-11-10: Refine text
