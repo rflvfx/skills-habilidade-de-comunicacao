@@ -498,3 +498,4 @@
 - 2026-04-16: Typo fix
 - 2026-12-09: Update guide
 - 2026-07-09: Add note
+- 2026-11-15: Expand section
