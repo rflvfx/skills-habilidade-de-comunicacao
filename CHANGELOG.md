@@ -508,3 +508,4 @@
 - 2026-02-27: Update guide
 - 2026-12-12: Improve docs
 - 2026-04-11: Improve docs
+- 2026-11-25: Typo fix
